@@ -15,7 +15,7 @@ Ensure you have Rust installed on your system. Then clone this repository and bu
 
 ```bash
 git clone https://github.com/0xApplePie/minigrep
-cd rust-grep-cli
+cd minigrep
 cargo build --release
 ```
 
