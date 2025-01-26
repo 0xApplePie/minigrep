@@ -14,7 +14,7 @@ A command-line search utility built in Rust that performs case-sensitive text se
 Ensure you have Rust installed on your system. Then clone this repository and build using cargo:
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/0xApplePie/minigrep
 cd rust-grep-cli
 cargo build --release
 ```
